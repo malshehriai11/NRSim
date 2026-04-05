@@ -75,7 +75,9 @@ pip install -r requirements.txt
 ```
 
 ### Run
+```bash
 python src/run_simulation.py
+```
 
 ## Citation
 If you use this work, please cite:
@@ -93,11 +95,3 @@ If you use this work, please cite:
 This project is released under the MIT License.
 The MIND dataset is subject to its original license and must be obtained separately.
 
-
-
-
-
-## Implementation of Unveiling the Dynamics of Multi-Dimensional Filter Bubbles in News Recommendation
-
-- **Checkpoints**: [Download](https://drive.google.com/drive/u/2/folders/1zSDlJ95lAeDtvTP_txGxfYD29L8Crqqw)
-- **Dataset**: [Download](https://drive.google.com/drive/u/2/folders/1Sa9l3cjvpZShTeYqPCLKyAG7Lo7JHn0C)
