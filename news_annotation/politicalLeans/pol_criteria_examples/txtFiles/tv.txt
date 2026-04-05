@@ -1,0 +1,26 @@
+Tv:
+
+Left:
+A TV news article with a left-leaning political perspective often advocates for progressive values, social justice, and policies that promote economic equality. The content typically emphasizes issues like climate change, universal healthcare, LGBTQ+ rights, and racial equality. The language used may be more inclusive and supportive of labor unions, higher taxes on the wealthy, and expanded social programs. Coverage will often highlight systemic inequalities and support government intervention to address these issues. Criticism of corporate power, military interventions, and conservative policies is common. The narrative usually aligns with the perspectives of liberal politicians and progressive activists, focusing on stories that convey empathy towards marginalized communities and advocate for comprehensive reforms.
+
+Center:
+A TV news article with a centrist political perspective strives for a balanced and neutral viewpoint, presenting multiple sides of an issue without overtly endorsing any particular stance. The content aims to provide a fair representation of both liberal and conservative arguments, often featuring expert opinions and bipartisan viewpoints. The language used is typically moderate, avoiding inflammatory rhetoric and focusing on facts and analysis. Coverage may include discussions on economic policies, infrastructure, education, and healthcare, with an emphasis on pragmatic solutions and compromise. The narrative often seeks to bridge the gap between polarized viewpoints, promoting dialogue and understanding while prioritizing issues of broad public concern without a strong ideological bent.
+
+Right:
+A TV news article with a right-leaning political perspective frequently emphasizes conservative values, individual responsibility, and limited government intervention. The content typically focuses on issues like national security, law and order, free-market capitalism, and traditional family structures. The language used may be more critical of high taxes, regulatory policies, and social welfare programs, advocating instead for personal freedom, deregulation, and lower taxes. Coverage will often highlight the importance of a strong military, border security, and policies that support business and economic growth. Criticism of liberal policies, government overreach, and progressive social movements is common. The narrative usually aligns with the perspectives of conservative politicians and commentators, focusing on stories that underscore the importance of preserving cultural heritage, economic freedom, and national sovereignty.
+
+Chain_of_thought_examples:
+Article 1: Television networks are making strides in diversity and inclusion, featuring more LGBTQ+ characters and actors of color. Progressive groups applaud these efforts, emphasizing the importance of representation in media to reflect and empower the diverse communities within society.
+1. Key points: Television networks are increasing diversity and inclusion; more LGBTQ+ characters and actors of color are being featured; progressive groups support these efforts; representation in media is important for reflecting and empowering diverse communities.
+2. Political lean indicators: Emphasis on diversity and inclusion; support from progressive groups; focus on representation and empowerment of marginalized communities.
+3. Political lean: Left
+
+Article 2: Pregnant Jenna Dewan Says Daughter Everly, 6, Is Keeping a Close Eye on Mom's Diet. Why Pregnant Jenna Dewan's Daughter Is Keeping Tabs on Mom's Diet
+1. Key points: Jenna Dewan is pregnant; her daughter Everly is monitoring her diet; the article discusses the reasons behind this.
+2. Political lean indicators: The article focuses on a personal story about a celebrity's family life and diet during pregnancy; lacks political content or indicators.
+3. Political lean: Center
+
+Article 3: 'The View': Joy Behar lists president's scandals, Donald Trump Jr. hits back in heated exchange. During an appearance on "The View" Thursday, Donald Trump Jr. didn't hold back on a jab to co-host Joy Behar about her blackface controversy.
+1. Key points: Joy Behar lists presidential scandals; Donald Trump Jr. responds with a jab about Behar's blackface controversy; heated exchange on "The View."
+2. Political lean indicators: Mention of presidential scandals (likely referring to a liberal critique); Donald Trump Jr.'s defense and counter-attack (conservative response); the exchange highlights polarized viewpoints.
+3. Political lean: Right

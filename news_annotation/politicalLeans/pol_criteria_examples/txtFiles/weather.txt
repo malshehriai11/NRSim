@@ -1,0 +1,26 @@
+Weather:
+
+Left:
+Articles with a left-leaning political perspective on weather news often emphasize the impact of climate change and advocate for environmental justice. These articles typically highlight how extreme weather events are exacerbated by human activities, particularly the actions of large corporations and industrial sectors. They may discuss the disproportionate effects of weather phenomena on marginalized and vulnerable communities, calling for systemic changes and government intervention to address these issues. The language used is often urgent and may call for immediate and radical policy changes to mitigate future risks. The articles might also support renewable energy initiatives, criticize fossil fuel industries, and promote international cooperation on climate action.
+
+Center:
+Center-leaning weather news articles strive to present a balanced view of weather events, often focusing on factual reporting without strong ideological angles. These articles provide comprehensive coverage of weather phenomena, including scientific explanations, impacts on various communities, and government responses. They aim to present multiple perspectives, including expert opinions from climatologists, meteorologists, and policymakers. While they may acknowledge the role of climate change, they tend to avoid attributing specific weather events directly to it without substantial evidence. The tone is generally neutral and informative, emphasizing preparedness, response strategies, and practical advice for the general public. These articles tend to avoid advocating for specific political actions, instead focusing on data and expert analysis.
+
+Right:
+Right-leaning weather news articles often downplay the link between climate change and specific weather events, instead attributing them to natural variability. These articles may emphasize the resilience and adaptability of communities and criticize alarmist views on climate change. They often highlight the economic costs of proposed environmental regulations and promote market-based solutions or technological innovations as alternatives to government intervention. The language used may be skeptical of climate science consensus, and there might be a focus on individual responsibility and local-level responses rather than federal or international mandates. These articles might also underscore the importance of maintaining energy independence and the economic benefits of traditional energy sources like oil and gas.
+
+Chain_of_thought_examples:
+Article 1: Marginalized communities often bear the brunt of extreme weather events. Equitable government policies and increased funding for disaster preparedness and relief efforts are necessary to protect these vulnerable populations and ensure fair, just recovery processes.
+1. Key points: Marginalized communities are disproportionately affected by extreme weather events; need for equitable government policies; increased funding for disaster preparedness and relief; focus on fair and just recovery processes.
+2. Political lean indicators: Emphasis on the impact of extreme weather on marginalized communities; call for systemic changes and government intervention; focus on equity and justice in recovery processes.
+3. Political lean: Left
+
+Article 2: California governor "owns" blackouts, takes political risk. California's utilities have been cutting power to areas to try to prevent their electrical equipment from starting fires but California's governor is criticizing the scale of the outages by the Pacific Gas & Electric Co. utility. (Oct. 24)
+1. Key points: California utilities cutting power to prevent fires; governor criticizing the scale of outages; political risk for the governor.
+2. Political lean indicators: Focus on the political implications for the governor; criticism of utility company actions; no strong ideological angle on climate change or environmental policy.
+3. Political lean: Center
+
+Article 3: Local communities must take initiative in weather preparedness. Encouraging self-reliance and personal responsibility ensures readiness for natural disasters. Government should support but not dictate, allowing communities to develop tailored, effective response strategies.
+1. Key points: Importance of local community initiative in weather preparedness; emphasis on self-reliance and personal responsibility; government support should be limited and not prescriptive.
+2. Political lean indicators: Emphasis on individual responsibility and local-level responses; skepticism of extensive government intervention; focus on community-driven solutions.
+3. Political lean: Right

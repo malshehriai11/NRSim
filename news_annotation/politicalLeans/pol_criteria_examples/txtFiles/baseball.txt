@@ -1,0 +1,24 @@
+Baseball:
+
+Left:
+Articles with a left-leaning political slant in the baseball news category often emphasize issues of social justice, equality, and labor rights. They may highlight stories about player activism, such as those advocating for racial equality, LGBTQ+ rights, or immigrant rights. These articles frequently criticize management and ownership structures, focusing on disparities in income and opportunities between players and team owners. They might support stronger players' unions and call for more equitable revenue sharing within the sport. Additionally, left-leaning articles may be critical of policies or actions perceived as discriminatory or exclusionary, and they often advocate for a more inclusive environment within the sport.
+
+Center:
+Center-leaning baseball news articles strive for a balanced and neutral perspective, often presenting multiple viewpoints on contentious issues. These articles aim to provide comprehensive coverage without overtly supporting one side over the other. They typically focus on the sport itself, including game analysis, player statistics, and team performance, without delving deeply into politically charged topics. When political issues are discussed, center-leaning articles present facts and opinions from different sides equally, allowing readers to form their own conclusions. The tone is generally moderate, aiming to appeal to a broad audience and avoid polarizing language.
+
+Right:
+Right-leaning baseball news articles often emphasize tradition, patriotism, and the business aspects of the sport. They may focus on the economic implications of baseball, such as team profitability, stadium financing, and the financial health of the league. These articles might praise successful business strategies and criticize what they perceive as excessive player salaries or overly powerful players' unions. Right-leaning articles often support maintaining traditional aspects of the game and may resist changes that are seen as politically motivated or as pandering to social justice movements. Additionally, they might express skepticism towards player protests or activism during games, viewing them as distractions from the sport itself.
+
+Chain_of_thought_examples:
+Article 1: Can James Wiseman and Memphis topple the NCAA as we know it? | Giannotto. Memphis, through its support of James Wiseman and Penny Hardaway, is electing to be the first university to rebel in the growing war against the NCAA.
+1. Key points: Memphis University is supporting James Wiseman and Penny Hardaway in challenging the NCAA. The article discusses the university's rebellion against the NCAA's regulations.
+2. Political lean indicators: The article emphasizes a rebellion against an established authority (NCAA), which can be seen as a critique of existing power structures. This aligns with left-leaning perspectives that often challenge established institutions and advocate for change.
+3. Political lean: Left
+Article 2: The College Hoops Contender Series: Who are the teams that can actually win a title?. These are the only teams that can go and win the title.
+1. Key points: The article lists and analyzes the college basketball teams that have the potential to win the championship title.
+2. Political lean indicators: The focus is on game analysis, team performance, and player statistics without delving into politically charged topics. It presents a balanced view of the sport itself.
+3. Political lean: Center
+Article 3: Baseball’s success highlights the benefits of free market principles, where competition drives excellence. Reducing government intervention ensures teams can innovate and thrive independently. Upholding these principles promotes fairness and rewards merit in the sport.
+1. Key points: The article argues that baseball's success is due to free market principles, competition, and minimal government intervention. It promotes the idea that these principles lead to fairness and merit-based rewards.
+2. Political lean indicators: The emphasis on free market principles, minimal government intervention, and the benefits of competition aligns with right-leaning economic perspectives. The article praises traditional business strategies and economic aspects of the sport.
+3. Political lean: Right

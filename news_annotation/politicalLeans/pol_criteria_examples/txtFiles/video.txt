@@ -1,0 +1,26 @@
+Video:
+
+Left:
+Content in video news articles with a left political lean often emphasizes progressive social policies, economic equality, and government intervention in the economy. They typically advocate for issues such as climate change action, universal healthcare, LGBTQ+ rights, racial and gender equality, and workers' rights. The language used may be inclusive and focus on systemic change and social justice. Coverage often includes criticism of corporate power and the wealth gap, and support for higher taxation on the wealthy and increased social services. Sources may include progressive politicians, activists, and organizations. These videos might also highlight grassroots movements and protests advocating for progressive causes.
+
+Center:
+Video news articles with a center political lean strive for balance and neutrality, often presenting multiple viewpoints on a given issue. They aim to provide a factual and unbiased perspective, focusing on policy over ideology. Such content may cover a broad range of issues without overtly supporting or opposing any particular side. They often emphasize compromise and bipartisan solutions, and may include balanced panels or interviews with experts from across the political spectrum. Topics might include moderate policy proposals, electoral processes, and pragmatic approaches to governance. The language used is typically neutral, avoiding charged or polarizing terminology.
+
+Right:
+Content in video news articles with a right political lean often promotes conservative values, free-market capitalism, and limited government intervention in the economy. They typically advocate for issues such as strong national defense, lower taxes, deregulation, and traditional social values. The language used may emphasize individual responsibility, patriotism, and free enterprise. Coverage often includes criticism of big government, progressive taxation, and social welfare programs, and support for reducing government spending and regulations. Sources may include conservative politicians, business leaders, and think tanks. These videos might also highlight concerns about immigration, law and order, and the preservation of traditional cultural norms.
+
+Chain_of_thought_examples:
+Article 1: See Biden's lighthearted 'coming out' moment. 2020 Democratic presidential candidate Joe Biden used the phrase "when I came out" in his response to a question posed during the LGBTQ town hall event, to the amusement of the crowd and host Anderson Cooper.
+1. Key points: Joe Biden uses the phrase "when I came out" during an LGBTQ town hall event, eliciting amusement from the crowd and host Anderson Cooper.
+2. Political lean indicators: The focus on an LGBTQ town hall event and the lighthearted treatment of Biden's comment suggest an emphasis on LGBTQ+ rights and inclusivity, which are typically associated with progressive social policies.
+3. Political lean: Left
+
+Article 2: Taylor's opening statement was 40 mins. Hear the key moments. The top US diplomat to Ukraine, Bill Taylor, addressed the House Intelligence Committee with a 40-minute opening statement and described an "irregular channel" of communication with Ukraine.
+1. Key points: Bill Taylor, the top US diplomat to Ukraine, gives a 40-minute opening statement to the House Intelligence Committee, describing an "irregular channel" of communication with Ukraine.
+2. Political lean indicators: The article focuses on a factual recounting of Bill Taylor's testimony without overtly supporting or opposing any particular side. The language is neutral and emphasizes the procedural aspect of the testimony.
+3. Political lean: Center
+
+Article 3: Major video platforms are increasingly accused of censoring conservative voices. Prominent right-wing commentators report demonetization and shadow banning. Critics argue that these actions stifle free speech and suppress conservative viewpoints, urging for transparency and fair treatment across all political spectrums.
+1. Key points: Major video platforms are accused of censoring conservative voices, with right-wing commentators reporting demonetization and shadow banning. Critics call for transparency and fair treatment.
+2. Political lean indicators: The focus on the alleged suppression of conservative viewpoints and the call for transparency and fair treatment suggest a concern with free speech and criticism of perceived bias against conservative voices. These are typically associated with conservative values.
+3. Political lean: Right

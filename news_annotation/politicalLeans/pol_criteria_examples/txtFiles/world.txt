@@ -1,0 +1,26 @@
+World:
+
+Left:
+Articles with a left political lean often focus on social justice, equality, and government intervention to address societal issues. They may advocate for policies that promote economic redistribution, environmental protection, and minority rights. These articles typically support labor unions, progressive taxation, and public healthcare. They often criticize corporate power, wealth inequality, and conservative policies. Coverage may include positive portrayals of social movements such as climate activism, LGBTQ+ rights, and anti-racism efforts. Language tends to emphasize inclusivity, systemic change, and collective action.
+
+Center:
+Articles with a center political lean aim to provide balanced and impartial viewpoints, often presenting multiple sides of an issue without strong bias. They emphasize factual reporting and analysis, avoiding extreme positions. These articles may support moderate policies that blend elements from both the left and the right, such as balanced budgets, pragmatic regulation, and incremental social progress. They tend to focus on promoting stability, consensus, and bipartisanship. Coverage includes discussions on practical solutions, policy effectiveness, and evidence-based approaches. Language is typically neutral, fact-oriented, and measured.
+
+Right:
+Articles with a right political lean often focus on individual liberty, free markets, and limited government intervention. They advocate for policies that promote economic freedom, national security, and traditional values. These articles typically support business interests, tax cuts, deregulation, and a strong national defense. They often criticize government overreach, high taxation, and progressive policies. Coverage may include positive portrayals of conservative movements, free enterprise, and law-and-order initiatives. Language tends to emphasize personal responsibility, patriotism, and preserving established social norms.
+
+Chain_of_thought_examples:
+Article 1: Catalan President Makes Secession Pledge in Challenge to Spain. Catalonia's separatist president pledged a new push for independence, challenging the Spanish government during a tense week of violent street protests against jail terms given to leaders of a failed bid for secession in 2017.
+1. Key points: Catalan president pledges new push for independence; violent street protests; jail terms for leaders of 2017 secession bid.
+2. Political lean indicators: Focus on social justice and minority rights (Catalan independence); criticism of government actions (jail terms for leaders).
+3. Political lean: Left
+
+Article 2: Inside Mike Pence's 9 hours in Turkey. When Vice President Mike Pence and Secretary of State Mike Pompeo shook hands on the tarmac at Joint Base Andrews Wednesday before boarding separate planes, the view inside the White House was grim.
+1. Key points: Mike Pence and Mike Pompeo's trip to Turkey; grim view inside the White House.
+2. Political lean indicators: Neutral language; factual reporting; no strong bias or extreme positions.
+3. Political lean: Center
+
+Article 3: With increasing global threats, a strong national defense is essential to protect American interests. Conservative leaders emphasize the need for robust military funding and strategic alliances to ensure national security and maintain global stability against adversaries.
+1. Key points: Need for strong national defense; emphasis on military funding and strategic alliances; protection of American interests.
+2. Political lean indicators: Focus on national security; support for robust military funding; emphasis on conservative leaders and traditional values.
+3. Political lean: Right

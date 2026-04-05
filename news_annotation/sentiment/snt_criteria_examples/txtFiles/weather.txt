@@ -1,0 +1,26 @@
+Weather:
+
+Positive:
+Positive sentiment in weather news articles typically includes content that highlights favorable or beneficial weather conditions. This can involve descriptions of pleasant weather, clear skies, mild temperatures, and other factors that contribute to a comfortable and enjoyable atmosphere. Articles that report improvements in weather conditions, such as the end of a storm or heatwave, also fall under positive sentiment. Additionally, weather news that discusses the positive impacts of weather on activities like tourism, agriculture, and outdoor events is considered positive. Phrases like "sunny and warm," "perfect day for a picnic," "ideal weather for travel," and "improving weather conditions" are indicators of positive sentiment.
+
+Negative:
+Negative sentiment in weather news articles is characterized by descriptions of adverse or harmful weather conditions. This includes reports of extreme weather events such as hurricanes, tornadoes, blizzards, floods, heatwaves, and severe storms. Articles detailing weather-related damage, disruptions, and threats to safety and property are also negative. Discussions of prolonged unfavorable conditions, such as droughts or persistent heavy rainfall, contribute to negative sentiment. Warnings and alerts about potential weather hazards, as well as reports on the negative impacts of weather on health, infrastructure, and daily life, are typical content types. Phrases like "severe weather warning," "dangerous conditions," "widespread damage," and "significant disruptions" indicate negative sentiment.
+
+Neutral:
+Neutral sentiment in weather news articles includes factual and informative content without any strong positive or negative connotations. This involves straightforward weather forecasts, descriptions of typical weather patterns, and statistical data on temperatures, precipitation, and other meteorological factors. Articles that provide general information about weather phenomena, climate trends, or scientific explanations of weather-related topics also fall into this category. Neutral sentiment is characterized by an objective tone and the absence of emotional language. Phrases like "temperatures will range from," "expect scattered showers," "average rainfall for the month," and "partly cloudy skies" are indicative of neutral sentiment.
+
+Chain_of_thought_examples:
+Article 1: Climate havoc wipes out coastal kelp as SF Bay's native fish species die off. A climate-related catastrophe off the California coast has resulted in the death of 90% of the kelp from San Francisco to Oregon as an explosion of ravenous urchins devours everything in sight. And it's happening at
+1. Key points: Climate-related catastrophe off the California coast; 90% of kelp from San Francisco to Oregon has died; explosion of ravenous urchins.
+2. Sentiment indicators: "Climate havoc," "death of 90% of the kelp," "explosion of ravenous urchins."
+3. Sentiment: Negative
+
+Article 2: MoDOT says the main concern for drivers Tuesday morning is ice. ST. LOUIS (KMOV.com) Tuesday morning drivers may encounter lane closures or delays on their commute. MoDOT prepares for morning commute During a 6:30 a.m. press conference, MoDOT District Maintenance Engineer Bob Becker said crews have been out all night
+1. Key points: Main concern for drivers is ice; potential lane closures or delays; MoDOT crews working overnight.
+2. Sentiment indicators: "Main concern for drivers," "lane closures or delays," "crews have been out all night."
+3. Sentiment: Negative
+
+Article 3: How Hamilton's 'urban forest' is blossoming with arborist's work. In the three years since Hamilton hired Dave Bienemann as its municipal arborist, the city's "urban forest" has become much more diverse, and about 1,600 dead trees that were along streets and in other public places have disappeared.
+1. Key points: Hamilton's urban forest has become more diverse; 1,600 dead trees removed; work of municipal arborist Dave Bienemann.
+2. Sentiment indicators: "Blossoming," "much more diverse," "1,600 dead trees have disappeared."
+3. Sentiment: Positive

@@ -1,0 +1,26 @@
+World:
+
+Positive:
+Positive sentiment in world news articles typically involves content that highlights progress, achievements, solutions, or uplifting events. Criteria for identifying positive sentiment include reporting on successful diplomatic negotiations, economic growth, international cooperation, humanitarian aid successes, scientific breakthroughs, and positive environmental news. Articles that focus on inspirational stories, cultural exchanges, peace treaties, and significant reductions in crime or conflict also tend to be classified as positive. Furthermore, pieces that emphasize optimism, hope, and constructive developments in society, politics, or the economy contribute to a positive sentiment classification.
+
+Negative:
+Negative sentiment in world news articles generally pertains to content that describes adverse events, conflicts, failures, or distressing situations. Criteria for identifying negative sentiment include coverage of wars, political instability, economic downturns, natural disasters, humanitarian crises, and significant public health emergencies. Articles that report on human rights violations, corruption, terrorism, environmental degradation, and social unrest typically convey negative sentiment. Additionally, news that highlights pessimism, fear, tragedy, and significant setbacks in policy, diplomacy, or global affairs aligns with a negative sentiment classification.
+
+Neutral:
+Neutral sentiment in world news articles is characterized by content that provides balanced, factual reporting without a strong emotional tone. Criteria for identifying neutral sentiment include straightforward news reports, statistical data, and objective analysis. Articles that offer comprehensive overviews of events, present multiple perspectives, and avoid taking a stance on controversial issues are considered neutral. Coverage of routine political events, legislative updates, non-urgent international relations, and general economic reports often falls into this category. Neutral sentiment is marked by an absence of emotional language, focusing instead on informative and unbiased presentation of facts.
+
+Chain_of_thought_examples:
+Article 1: Brazil police arrest man said to be one of world's most prolific human traffickers. Brazil police arrest man said to be one of world's most prolific human traffickers
+1. Key points: Brazilian police have arrested a man who is considered one of the world's most prolific human traffickers.
+2. Sentiment indicators: The arrest of a major human trafficker is a significant achievement for law enforcement and a positive step towards combating human trafficking.
+3. Sentiment: Positive
+
+Article 2: Putin: Trump Visit to Moscow for Military Parade Would Be 'Right Step'. Russian President Vladimir Putin said it would be a "right step" if U.S. counterpart Donald Trump accepts his invitation to attend the upcoming May 9 military parade in Red Square commemorating the 75th anniversary of the end of
+1. Key points: Russian President Vladimir Putin has invited U.S. President Donald Trump to attend a military parade in Moscow, which would commemorate the 75th anniversary of the end of World War II.
+2. Sentiment indicators: The invitation and potential visit could be seen as a gesture of diplomatic engagement and international cooperation.
+3. Sentiment: Neutral
+
+Article 3: Bolivians jam streets to celebrate president's resignation. Jubilant crowds packed the streets of La Paz Sunday to celebrate the abrupt resignation of Bolivian President Evo Morales, Latin America's longest serving leader, after weeks of protest over his disputed re-election. "THIS is my only flag," shouted a young masked man in
+1. Key points: Bolivian President Evo Morales resigned after weeks of protests over his disputed re-election, leading to celebrations in the streets of La Paz.
+2. Sentiment indicators: The resignation is seen as a victory for the protesters and is celebrated by the public, indicating a positive outcome for those opposing Morales.
+3. Sentiment: Positive

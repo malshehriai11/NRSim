@@ -1,0 +1,26 @@
+Baseball:
+
+Positive:
+Positive sentiment in baseball news articles usually revolves around favorable outcomes, achievements, and encouraging developments. These articles often highlight success stories, such as a team’s winning streak, a player's exceptional performance, or the successful return of an injured player. They may also cover awards, milestones, and records being broken. Content that celebrates personal growth, teamwork, and community involvement also falls under this category. Examples include headlines about a team clinching a playoff spot, a player hitting a walk-off home run, or a heartwarming story of a player’s charitable work off the field.
+
+Negative:
+Negative sentiment is typically associated with unfavorable news, such as losses, injuries, and controversies. Articles that discuss a team’s losing streak, a star player being sidelined due to injury, or a manager being fired are indicative of negative sentiment. Scandals, disputes, and conflicts within the team or organization also contribute to this category. Other examples include reports on poor performance, criticism from fans or analysts, and any legal or ethical issues surrounding players or the team. Negative sentiment articles often convey disappointment, concern, or frustration.
+
+Neutral:
+Neutral sentiment in baseball news articles is characterized by a balanced, fact-based approach without expressing strong positive or negative emotions. These articles focus on delivering straightforward information, such as game summaries, statistical analysis, and transaction updates. They often provide context and background without taking a definitive stance. Examples include pre-game previews, trade announcements, and minor league updates. Neutral sentiment pieces might also include historical retrospectives, technical breakdowns of gameplay, and commentary that weighs multiple perspectives without clear bias. These articles aim to inform rather than evoke strong emotional reactions.
+
+Chain_of_thought_examples:
+Article 1: Cassius Winston posts double-double a day after his brother's death. Michigan State Spartans guard Cassius Winston came into Sunday's game against Binghamton with a heavy heart. His brother, Zachary Winston, died Saturday night when he stepped in front of an Amtrak train, according to the Detroit Free Press.
+1. Key points: Cassius Winston played a game with a heavy heart after his brother's tragic death. Zachary Winston died by stepping in front of an Amtrak train.
+2. Sentiment indicators: Tragic death of a family member, heavy heart, emotional burden.
+3. Sentiment: Negative
+
+Article 2: College Basketball Cheerleaders. College Basketball Cheerleaders
+1. Key points: The article mentions college basketball cheerleaders but lacks specific details or context.
+2. Sentiment indicators: No clear indicators of positive, negative, or neutral sentiment due to lack of information.
+3. Sentiment: Neutral
+
+Article 3: Big D: Dallas renames street Nowitzki Way to honor Dirk. Retired Dallas Mavericks star Dirk Nowitzki joined a few hundred people Wednesday at a ceremony to rename a city street as Nowitzki Way in his honor. The big German accepted the gesture with characteristic humor and humility. "It's sort of
+1. Key points: Dirk Nowitzki was honored by having a street renamed after him. He attended the ceremony and accepted the honor with humor and humility.
+2. Sentiment indicators: Honor, ceremony, humor, humility, recognition of achievements.
+3. Sentiment: Positive

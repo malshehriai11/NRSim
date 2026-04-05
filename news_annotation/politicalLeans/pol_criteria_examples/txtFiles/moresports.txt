@@ -1,0 +1,26 @@
+Moresports:
+
+Left:
+"Articles with a left-leaning political stance in the moresports news category often emphasize themes of social justice, equality, and inclusivity. They may focus on stories that highlight the intersection of sports with broader social issues, such as racial and gender equity, LGBTQ+ rights, and labor rights. These articles often critique established power structures within sports organizations and advocate for systemic changes. Coverage may include support for athletes using their platforms for activism, discussions on the economic disparities in sports, and the promotion of progressive policies within sports leagues and institutions. The tone is generally supportive of diversity initiatives and critical of policies or actions perceived as exclusionary or discriminatory.
+
+Center:
+Center-leaning articles in the moresports news category tend to present a balanced view, aiming to provide a comprehensive perspective without overt partisan bias. These articles strive for neutrality, offering equal coverage to different viewpoints and avoiding strong ideological language. They often focus on the performance and achievements of athletes, the business aspects of sports, and the cultural impact of sports without delving deeply into political implications. When social or political issues are discussed, the coverage is typically measured and seeks to present facts and context rather than advocating for a particular stance. The goal is to inform rather than persuade, providing readers with the information needed to form their own opinions.
+
+Right:
+Right-leaning articles in the moresports news category often emphasize themes of tradition, patriotism, and personal responsibility. They may focus on the importance of preserving the integrity and heritage of sports, often highlighting stories that celebrate national pride and individual achievement. These articles may critique what they perceive as the politicization of sports, advocating for a separation between athletic performance and social or political activism. Coverage might include support for athletes who embody traditional values, skepticism towards progressive changes within sports organizations, and a focus on the economic and business successes within the sports industry. The tone is generally one of maintaining the status quo and promoting individual merit over collective action.
+
+Chain_of_thought_examples:
+Article 1: Megan Rapinoe calls fines for racist abuse 'an absolute joke,' asks for more player outrage.
+1. Key points: Megan Rapinoe criticizes the fines imposed for racist abuse in sports, calling them insufficient. She urges more player outrage and activism against such issues.
+2. Political lean indicators: Emphasis on social justice and equality, critique of established power structures within sports organizations, support for athletes using their platforms for activism.
+3. Political lean: Left
+
+Article 2: Tennessee officer struck while investigating accident. MEMPHIS, Tenn. (AP) Police in Tennessee say an officer has been hospitalized after being struck by a vehicle while he was investigating an interstate accident. Memphis police said on Twitter that the officer who was struck Saturday night on Interstate 40 in Memphis suffered
+1. Key points: A Tennessee police officer was hospitalized after being struck by a vehicle while investigating an accident on Interstate 40 in Memphis.
+2. Political lean indicators: The article focuses on a straightforward news report about an incident involving a police officer, without delving into broader social or political issues.
+3. Political lean: Center
+
+Article 3: As society evolves, conservatives stress the importance of upholding traditional values such as family, faith, and personal responsibility. They argue that these principles provide a stable foundation for communities and help maintain social cohesion amid rapid cultural changes.
+1. Key points: Conservatives emphasize the importance of traditional values like family, faith, and personal responsibility, arguing that these principles are essential for social stability.
+2. Political lean indicators: Focus on traditional values, personal responsibility, and skepticism towards rapid cultural changes.
+3. Political lean: Right

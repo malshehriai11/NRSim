@@ -1,0 +1,41 @@
+Us:
+
+Positive:
+Positive sentiment in US news articles often includes content that highlights progress, success, or beneficial outcomes. This can be seen in stories about economic growth, successful initiatives, technological advancements, and inspirational human interest pieces. Indicators of positive sentiment include optimistic language, constructive developments, and hopeful forecasts. Articles may focus on personal achievements, community improvements, or diplomatic successes. Examples include reporting on new job creation, improvements in healthcare, breakthroughs in science and technology, and stories about individuals or groups making a positive impact on society.
+
+Negative:
+Negative sentiment in US news articles typically involves content that emphasizes problems, failures, or adverse outcomes. This includes stories about economic downturns, political scandals, social injustice, natural disasters, and conflicts. The language used is often critical, highlighting negative developments or pessimistic forecasts. Articles may cover crime, corruption, environmental crises, health epidemics, and other issues that negatively affect people or communities. Examples include reporting on rising unemployment rates, government mismanagement, environmental pollution, acts of violence, and public health crises.
+
+Neutral:
+Neutral sentiment in US news articles is characterized by a balanced and impartial presentation of information without a clear positive or negative bias. These articles aim to inform rather than influence, providing facts, analysis, and diverse perspectives. Content often includes policy discussions, legislative updates, academic research, statistical data, and reports on routine events. Indicators of neutral sentiment include the use of objective language, lack of emotive or persuasive wording, and equal representation of differing viewpoints. Examples include coverage of new laws being passed, statistical reports on population demographics, and detailed accounts of non-controversial events such as public ceremonies or educational achievements.
+
+Chain_of_thought_examples:
+Article 1: Chicago Teachers Union To March Through City Three Days Ahead Of Strike; No Negotiations Monday Morning. The Chicago Teachers Union is just three days away from going on strike if a new contract isn't reached with the city.
+1. Key points:
+- Chicago Teachers Union plans to march through the city.
+- A strike is imminent in three days if no new contract is reached.
+- No negotiations are scheduled for Monday morning.
+2. Sentiment indicators:
+- Emphasis on potential strike and lack of negotiations.
+- Language suggests tension and unresolved conflict.
+3. Sentiment: Negative
+
+Article 2: The cheapest apartments for rent in Alhambra, Phoenix. Need a budget-friendly new spot? Apartment hunting can be hard, but there are deals. So what does the low-end rental price in Alhambra look like these days?
+1. Key points:
+- Discussion of budget-friendly apartments in Alhambra, Phoenix.
+- Acknowledgment that apartment hunting can be challenging.
+- Focus on available deals and low-end rental prices.
+2. Sentiment indicators:
+- Optimistic language about finding deals.
+- Practical advice for budget-conscious renters.
+3. Sentiment: Positive
+
+Article 3: Middletown's irrepressible cool: On what accounts for this city's passionate, tight-knit community pulse. From Eli Cannon's backyard beach and happy hour IPAs served up at Forest City Brewing, to free lectures offered at Wesleyan and concerts on the lawn of the Wadsworth Mansion, Middletown beats with a thriving pulse.
+1. Key points:
+- Description of Middletown's vibrant community.
+- Highlights of local attractions and events.
+- Emphasis on the city's passionate and tight-knit community.
+2. Sentiment indicators:
+- Positive language describing community and events.
+- Focus on thriving local culture and activities.
+3. Sentiment: Positive

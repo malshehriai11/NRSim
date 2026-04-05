@@ -1,0 +1,27 @@
+Football:
+
+Positive:
+Descriptions of victories or successful matches, including high scores, record-breaking performances, or significant achievements by teams or players. News about player awards, transfers to prestigious clubs, or personal milestones such as birthdays, anniversaries, or engagement in charitable activities. Announcements of new signings or contract renewals that are well-received by fans and analysts. Reports of recovery from injuries and return to play of key players. Positive fan reactions, celebrations, and supportive statements from coaches or team members. Optimistic previews of upcoming matches or tournaments highlighting potential for success.
+
+Negative:
+Descriptions of losses or poor performances, including low scores, missed opportunities, or significant defeats. News of injuries, particularly those that could sideline key players for extended periods. Reports of negative incidents such as player misconduct, scandals, or legal issues. Announcements of transfers or contract terminations that are perceived negatively by fans or analysts. Criticism from fans, analysts, or within the team itself, including disagreements between players, coaches, or management. Reactions to disappointing results, including elimination from tournaments or failure to qualify for significant events.
+
+Neutral:
+Straightforward factual reporting of match results without additional commentary or emotion. Announcements of upcoming fixtures, schedules, or logistical details such as venue changes. Balanced analysis of team or player performance, highlighting both strengths and weaknesses without leaning towards positive or negative. Updates on general football-related activities such as training sessions, press conferences, or media appearances. Reports on regulatory or administrative changes within football organizations, such as rule modifications or structural adjustments. Coverage of football-related events or news that do not directly impact the sentiment towards teams or players, such as technological advancements or sponsorship deals.
+
+Chain_of_thought_examples:
+
+Article 1: "She lived every day as if it were her last," beloved Jags fan, mother in UK dies from brain tumor. Tragically, a family of Jaguars fans living in the U.K. will be watching Sunday's game with the Texans at Wembley Stadium without a loved one.
+1. Key points: A beloved Jaguars fan and mother in the UK has died from a brain tumor. Her family will be watching the upcoming game without her.
+2. Sentiment indicators: The article mentions the tragic death of a beloved fan and mother, which is a negative event.
+3. Sentiment: Negative
+
+Article 2: Panthers Tracks: Kyle Allen or Teddy Bridgewater? Ikea tip for parents who hate Ikea. A friendly reminder to the New Orleans Saints: You aren't supposed to be doing this. Drew Brees broke his thumb in Week 2. That was supposed to mean the NFC South was wide open. The Panthers,
+1. Key points: Discussion about the quarterback situation for the Panthers (Kyle Allen or Teddy Bridgewater). Mention of Drew Brees breaking his thumb, which was expected to impact the NFC South.
+2. Sentiment indicators: Mention of Drew Brees' injury, which is a negative event. The discussion about the quarterback situation is neutral.
+3. Sentiment: Neutral
+
+Article 3: Charlotte 49ers roll past Middle Tennessee for second victory in a row. A week after the Charlotte 49ers rallied for an emotional victory, they went into full domination mode Saturday in a 34-20 Conference USA triumph against Middle Tennessee at Richardson Stadium. It was the second consecutive victory for Charlotte
+1. Key points: Charlotte 49ers achieved a second consecutive victory, winning 34-20 against Middle Tennessee in a Conference USA game.
+2. Sentiment indicators: Descriptions of victories and successful matches, including high scores and significant achievements.
+3. Sentiment: Positive

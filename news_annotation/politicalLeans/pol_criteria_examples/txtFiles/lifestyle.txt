@@ -1,0 +1,26 @@
+Lifestyle:
+
+Left:
+Lifestyle news articles with a left political lean often focus on social justice, equality, and inclusivity. They typically highlight issues such as gender equality, LGBTQ+ rights, racial justice, and environmental sustainability. These articles may feature stories about diverse cultural experiences, advocate for progressive values, and challenge traditional norms and structures. They often support policies like universal healthcare, climate action, and labor rights. Content types may include profiles of activists, coverage of social movements, critiques of corporate practices, and promotion of community-based initiatives.
+
+Center:
+Lifestyle news articles with a center political lean usually aim for a balanced perspective, often presenting multiple viewpoints on a given issue. They tend to focus on general human interest stories, wellness, and practical advice without a strong ideological bent. These articles may discuss topics like balanced diets, fitness tips, travel guides, and personal finance advice. They often strive to be inclusive and non-partisan, avoiding polarizing language and emphasizing common ground. Content types may include interviews with experts, neutral coverage of cultural events, and articles that encourage civic engagement and personal development.
+
+Right:
+Lifestyle news articles with a right political lean often emphasize traditional values, personal responsibility, and patriotism. They may focus on topics like family values, religious faith, and national pride. These articles frequently highlight the importance of individual achievement, entrepreneurship, and conservative social norms. They may support policies that promote free market principles, limited government intervention, and traditional family structures. Content types may include profiles of successful business owners, features on religious and patriotic events, critiques of liberal social policies, and articles that celebrate historical traditions and heritage.
+
+Chain_of_thought_examples:
+Article 1: 1619 Project reporter details series about 400th anniversary of Africans' arrival to Virginia colonies. Growing up in Iowa, Nikole Hannah-Jones had a few aha-moments about the year 1619 and its significance. One really hit home during high school. A teacher tasked with cramming a couple hundred years of black history
+1. Key points: The article discusses the significance of the year 1619, the arrival of Africans to the Virginia colonies, and the personal experiences of Nikole Hannah-Jones growing up in Iowa. It highlights the importance of black history and the educational moments that shaped Hannah-Jones' understanding of it.
+2. Political lean indicators: The focus on black history, social justice, and the personal narrative of an African American journalist suggests an emphasis on racial justice and inclusivity. The article aligns with themes of social justice and challenging traditional historical narratives.
+3. Political lean: Left
+
+Article 2: Thousands of animals around the world are at risk of extinction. But not jellyfish they're thriving in warm, polluted water. Half a million of Earth's species may soon be vulnerable to extinction, according to the UN. Jellyfish, however, are proliferating in warmer waters.
+1. Key points: The article highlights the risk of extinction faced by many animal species worldwide, with a specific mention of jellyfish thriving in warm, polluted waters. It references a UN report on the vulnerability of half a million species.
+2. Political lean indicators: The focus on environmental issues and the impact of pollution and climate change on wildlife aligns with themes of environmental sustainability and climate action. The reference to a UN report also suggests a global perspective on environmental concerns.
+3. Political lean: Left
+
+Article 3: Self-reliance in personal finance is key to a prosperous life. Advocating for fiscal responsibility, saving, and investing ensures financial security. Minimizing dependence on government assistance fosters independence and encourages prudent financial habits.
+1. Key points: The article emphasizes the importance of self-reliance in personal finance, advocating for fiscal responsibility, saving, and investing. It promotes minimizing dependence on government assistance to foster independence and prudent financial habits.
+2. Political lean indicators: The focus on personal responsibility, minimizing government assistance, and promoting individual financial independence aligns with themes of traditional values, free market principles, and limited government intervention.
+3. Political lean: Right

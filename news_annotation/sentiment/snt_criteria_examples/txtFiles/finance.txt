@@ -1,0 +1,26 @@
+Finance:
+
+Positive:
+Positive sentiment in finance news articles typically includes content that indicates growth, profit, success, or improvement. This can be identified through keywords and phrases that highlight positive financial performance, such as "record profits," "revenue growth," "market expansion," "successful acquisition," "stock surge," "strong earnings report," and "upward trends." Articles discussing favorable economic conditions, positive forecasts, new product launches, strategic partnerships, or regulatory approvals also fall into this category. Additionally, positive sentiment can be inferred from expert opinions or analyst predictions that project future gains and stability for a company or the market overall.
+
+Negative:
+Negative sentiment in finance news articles is characterized by content that suggests loss, decline, failure, or deterioration. This includes keywords and phrases such as "losses," "decline in revenue," "market downturn," "earnings miss," "stock plummet," "layoffs," "bankruptcy," and "economic slowdown." Articles discussing adverse economic conditions, negative forecasts, product recalls, failed mergers or acquisitions, legal issues, or regulatory setbacks are also indicative of negative sentiment. Expert opinions or analyst predictions that project future losses, instability, or challenges for a company or the market are additional indicators of negative sentiment.
+
+Neutral:
+Neutral sentiment in finance news articles is typically identified by content that is factual and informative without an overtly positive or negative tone. This includes reporting on financial activities, market movements, economic indicators, and company announcements without subjective interpretation. Keywords and phrases such as "quarterly report," "financial statement," "stock performance," "market analysis," "economic data," "trading volume," and "industry trends" often indicate a neutral sentiment. Articles that present balanced views, mixed outcomes, or data-driven insights without strong opinions, as well as those that provide context or background information, are also considered neutral.
+
+Chain_of_thought_examples:
+Article 1: Amazon's new weapon to crush competition: $1 items delivered for free by tomorrow. And what about the environment?
+1. Key points: Amazon introduces $1 items with free next-day delivery; potential impact on competition; environmental concerns raised.
+2. Sentiment indicators: "crush competition" (positive for Amazon, negative for competitors), "free by tomorrow" (positive for consumers), "environment" (potentially negative due to concerns).
+3. Sentiment: Neutral (positive for Amazon and consumers, potentially negative for competitors and environmental impact).
+
+Article 2: Historic Plant City Coronet Bungalow Up For Sale. The Coronet Bungalow is a turn-of-the-century Georgian Revival home that is a reflection of another era.
+1. Key points: Historic Coronet Bungalow in Plant City is up for sale; the home is a turn-of-the-century Georgian Revival.
+2. Sentiment indicators: "Historic," "reflection of another era" (neutral, factual description).
+3. Sentiment: Neutral (informative and factual without strong positive or negative tone).
+
+Article 3: Stocks close higher after Fed signals pause on rate cuts. Stocks ended higher Wednesday as traders cheered the Federal Reserve's third rate cut of the year and comments from Chairman Jerome Powell that signaled it would be a while before the central bank hikes rates.
+1. Key points: Stocks closed higher; Federal Reserve's third rate cut of the year; Chairman Jerome Powell's comments on future rate hikes.
+2. Sentiment indicators: "Stocks close higher" (positive), "traders cheered" (positive), "rate cut" (positive for market sentiment).
+3. Sentiment: Positive (indicates market growth and positive trader sentiment).

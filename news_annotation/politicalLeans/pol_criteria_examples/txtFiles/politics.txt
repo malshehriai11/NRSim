@@ -1,0 +1,26 @@
+Politics:
+
+Left:
+Articles with a left political lean often emphasize social justice, equality, and progressive reforms. They tend to support policies that promote government intervention in the economy, advocate for higher taxes on the wealthy, and push for expanded social welfare programs. Content typically focuses on environmental protection, labor rights, racial and gender equality, LGBTQ+ rights, and healthcare reform. These articles may criticize corporate power, military spending, and conservative social policies. They often highlight stories about marginalized communities and call for systemic changes to address social inequalities.
+
+Center:
+Center-leaning articles strive for a balanced perspective, often presenting multiple sides of an issue without overtly endorsing any particular viewpoint. They emphasize pragmatism, moderation, and compromise. Content typically supports incremental reforms rather than radical changes and may advocate for both market-based and government solutions depending on the issue. These articles often cover bipartisan initiatives, emphasize the importance of democratic institutions, and highlight the need for national unity. They are likely to provide equal coverage of criticisms and praises for both left and right policies and politicians.
+
+Right:
+Articles with a right political lean often prioritize individual liberties, free-market principles, and traditional values. They tend to support lower taxes, reduced government regulation, and a strong national defense. Content typically focuses on economic growth, personal responsibility, and law and order. These articles may criticize government overreach, advocate for stricter immigration policies, and support conservative social policies such as opposition to abortion and same-sex marriage. They often highlight stories about national security, economic achievements, and the benefits of a free-market economy.
+
+Chain_of_thought_examples:
+Article 1: Billboard warns 'Moscow Mitch' McConnell: Impeach Trump or 'lose your job'. The new billboard from Need to Impeach, which was founded by 2020 Democratic presidential candidate Tom Steyer, began running Wednesday around D.C.
+1. Key points: A billboard campaign by Need to Impeach, founded by Democratic presidential candidate Tom Steyer, targets Mitch McConnell, urging him to support Trump's impeachment or face losing his job.
+2. Political lean indicators: The article emphasizes a campaign by a Democratic figure, focuses on the impeachment of a Republican president, and targets a prominent Republican senator. It suggests a push for accountability and systemic change.
+3. Political lean: Left
+
+Article 2: GOP lawmakers fear Trump becoming too consumed by impeachment fight. Senate Republicans want President Trump to focus more on his agenda and not let himself become personally consumed by the House impeachment inquiry, which is likely to hit a dead end in the Senate.
+1. Key points: Senate Republicans are concerned that President Trump is too focused on the impeachment inquiry and want him to concentrate on his legislative agenda. They believe the inquiry will not succeed in the Senate.
+2. Political lean indicators: The article presents the perspective of Republican lawmakers, emphasizes concerns about the impeachment inquiry's impact on the president's agenda, and suggests skepticism about the inquiry's success.
+3. Political lean: Right
+
+Article 3: Protecting constitutional rights is essential for preserving American freedom. Advocating for the Second Amendment and free speech ensures individual liberties are upheld. Limited government intervention maintains the founding principles that define our nation.
+1. Key points: The article argues that protecting constitutional rights, such as the Second Amendment and free speech, is crucial for American freedom. It advocates for limited government intervention to uphold the nation's founding principles.
+2. Political lean indicators: The focus on the Second Amendment, free speech, and limited government intervention aligns with conservative values. The emphasis on individual liberties and traditional principles suggests a preference for right-leaning policies.
+3. Political lean: Right

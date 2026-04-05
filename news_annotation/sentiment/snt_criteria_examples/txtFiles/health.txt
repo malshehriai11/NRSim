@@ -1,0 +1,45 @@
+Health:
+
+Positive:
+Health news articles with a positive sentiment often focus on breakthroughs, success stories, and advancements in medical science that indicate improvement or hope. This includes reports on new treatments or medications that show high efficacy, stories of patients recovering from serious illnesses, and successful health campaigns or public health initiatives. Articles that highlight the effectiveness of health interventions, improvements in healthcare systems, and positive clinical trial results also fall under this category. Additionally, positive sentiment is seen in pieces about health policies that are expected to have beneficial impacts on public health, as well as uplifting human interest stories involving medical professionals or patients.
+
+Negative:
+Health news articles with a negative sentiment typically highlight challenges, setbacks, or adverse outcomes in the health sector. This includes reports on disease outbreaks, increases in illness or mortality rates, and failures of medical treatments or interventions. Articles discussing the negative side effects of medications, healthcare system failures, and insufficient responses to health crises also exhibit a negative sentiment. Furthermore, pieces that focus on the impact of health issues on populations, such as the spread of epidemics, lack of access to necessary medical care, or the financial burden of health treatments, are considered negative. Negative sentiment can also be seen in stories about medical malpractice, healthcare fraud, and regulatory failures.
+
+Neutral:
+Health news articles with a neutral sentiment provide balanced, fact-based reporting without a clear positive or negative slant. These articles often present statistical data, research findings, and factual updates on health issues without expressing strong opinions or emotions. This category includes reports on ongoing medical research, updates on health policy changes, and summaries of scientific studies or clinical trials. Articles that provide informational content, such as explanations of medical conditions, health tips, and general health advice, also tend to be neutral. Additionally, news about routine medical procedures, health regulations, and standard public health announcements generally fall into the neutral sentiment category.
+
+Chain_of_thought_examples:
+Article 1: Suicide deaths increasing among Ohioans, according to the Ohio Department of Health. Health officials in Ohio are calling it a growing public health epidemic. Five people in Ohio die by suicide every day. Sign up for our Newsletters New numbers from the Ohio Department of Health show between 2007 and
+1. Key points:
+- Suicide deaths are increasing among Ohioans.
+- Health officials label it as a growing public health epidemic.
+- Five people in Ohio die by suicide every day.
+- New numbers from the Ohio Department of Health provide this data.
+2. Sentiment indicators:
+- Increasing suicide deaths (negative).
+- Described as a growing public health epidemic (negative).
+- High daily death rate by suicide (negative).
+3. Sentiment: Negative
+
+Article 2: Exactly What Happens to Your Body When You Gain Weight. Life would be a lot easier if losing weight was as easy as gaining weight. Herein, dietitians explain what happens to your body when you pack on the pounds.
+1. Key points:
+- Explanation of bodily changes when gaining weight.
+- Dietitians provide insights on the process.
+- Comparison between ease of gaining weight and difficulty of losing it.
+2. Sentiment indicators:
+- Informative content about weight gain (neutral).
+- Expert insights from dietitians (neutral).
+- No strong positive or negative emotional language.
+3. Sentiment: Neutral
+
+Article 3: This Bride Got a Wedding Redo After Losing 100 Pounds. Cherie Judd's weight loss journey started as she dreamed of her perfect wedding after her boyfriend proposed.
+1. Key points:
+- Cherie Judd lost 100 pounds.
+- Her weight loss journey was motivated by her dream of a perfect wedding.
+- She got a wedding redo after achieving her weight loss goal.
+2. Sentiment indicators:
+- Successful weight loss journey (positive).
+- Achieving a personal goal (positive).
+- Uplifting human interest story (positive).
+3. Sentiment: Positive

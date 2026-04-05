@@ -1,0 +1,26 @@
+Crime:
+
+Positive:
+Positive sentiment in crime news articles is rare, but it can be identified by focusing on elements that bring a sense of justice, relief, or hope. These articles typically highlight successful outcomes such as the apprehension of criminals, positive changes in crime rates, or community actions that lead to improved public safety. Content types that correspond to positive sentiment include stories about successful police operations, community initiatives that reduce crime, rehabilitation success stories of former criminals, and advancements in crime prevention technology that show promising results. Reports that focus on recovery and support for victims, as well as legislative changes that positively impact crime rates, also fall under this category. Positive sentiment is often characterized by an emphasis on constructive outcomes, resolution, and communal harmony.
+
+Negative:
+Negative sentiment in crime news articles is more prevalent and can be identified by themes of fear, loss, and dismay. These articles often focus on the occurrence of crimes, the impact on victims, and the broader implications for society. Content types that correspond to negative sentiment include reports of violent crimes like murder, assault, and robbery, detailed descriptions of criminal activities, and stories about the failure of law enforcement or the justice system. Articles that highlight the emotional and physical suffering of victims, rising crime rates, and community fears also exhibit negative sentiment. Additionally, reports on corruption within the police force, judicial miscarriages, and the societal repercussions of crime contribute to a negative tone. Negative sentiment is marked by an emphasis on harm, disorder, and distress.
+
+Neutral:
+Neutral sentiment in crime news articles can be identified by an unbiased, factual presentation of information without emotional or subjective language. These articles provide balanced reporting, focusing on delivering the facts of an incident, legal proceedings, or crime statistics without editorializing. Content types that correspond to neutral sentiment include straightforward news reports on crime occurrences, updates on ongoing investigations, court case summaries, and statistical analyses of crime trends. Articles that present multiple perspectives, including statements from law enforcement, witnesses, and legal experts, without favoring any side, are also neutral. Neutral sentiment is characterized by an emphasis on objectivity, clarity, and a lack of emotional undertone, focusing solely on informing the reader.
+
+Chain_of_thought_examples:
+Article 1: Suspect arrested in disappearance of college student. Authorities have arrested a suspect in the case of a missing Alabama college student.
+1. Key points: A suspect has been arrested in connection with the disappearance of a college student from Alabama.
+2. Sentiment indicators: The arrest of a suspect brings a sense of justice and potential resolution to the case, which can be seen as a positive development.
+3. Sentiment: Positive
+
+Article 2: Carolina woman celebrates her 110th birthday. At 110 years old, Maria Aulenbacher may just be South Carolina's longest-living resident. "It's my birthday, yes! (I feel) good! Wonderful!" said Aulenbacher. "Yes, I enjoy life!" Her family planned a birthday party at The Cliffs Glassy Mountain clubhouse, where they toasted her and
+1. Key points: Maria Aulenbacher celebrates her 110th birthday with her family at a clubhouse.
+2. Sentiment indicators: Expressions of joy, celebration, and a positive outlook on life from Aulenbacher and her family.
+3. Sentiment: Positive
+
+Article 3: US Marshals find 3 missing children from Missouri in Texas. Three children who were abducted from Saline County, Missouri in 2017 have been found in Texas. According to the U.S. Marshals Office, in August of 2017 Shawn Rodriguez allegedly took her three young children, who were all under the age
+1. Key points: Three children abducted in 2017 from Missouri have been found in Texas by U.S. Marshals.
+2. Sentiment indicators: The successful recovery of the missing children brings relief and a sense of justice, indicating a positive outcome.
+3. Sentiment: Positive

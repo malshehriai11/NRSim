@@ -1,0 +1,26 @@
+Football:
+
+Left:
+Football news articles with a left-leaning perspective often emphasize themes of social justice, equality, and inclusivity. They may focus on stories that highlight the role of football in promoting diversity, such as initiatives to increase representation of women, ethnic minorities, and LGBTQ+ individuals in the sport. These articles may also criticize practices within football that perpetuate inequality or exploitation, such as the treatment of migrant workers in host countries for major tournaments. Additionally, left-leaning articles might advocate for players' rights, support for grassroots football, and the importance of community engagement through the sport. Economic aspects discussed might include calls for fairer distribution of revenue within leagues and support for lower-tier clubs.
+
+Center:
+Center-leaning football news articles typically strive for a balanced perspective, presenting multiple viewpoints on issues within the sport. These articles often focus on the factual reporting of events, providing context without overtly favoring one side. They may cover a wide range of topics, from match reports and player profiles to discussions on governance and rule changes in the sport. When touching on contentious issues, such as racism or financial disparities, center-leaning articles aim to present a nuanced view, acknowledging the complexity of the situations. They might include expert opinions from various sides, offering readers a comprehensive understanding without pushing a specific agenda.
+
+Right:
+Football news articles with a right-leaning perspective often emphasize tradition, national pride, and the economic aspects of the sport. They might focus on the successes of national teams and clubs, celebrating historical achievements and the legacy of famous players. Right-leaning articles may also support the commercialization of football, highlighting the benefits of investments, sponsorships, and the business side of the sport. They might downplay or justify the actions of powerful football organizations and figures, presenting them as necessary for the growth and global reach of the sport. Additionally, such articles may be more critical of movements within football that they perceive as politically motivated or disruptive to the traditional aspects of the game.
+
+Chain_of_thought_examples:
+Article 1: 'Rooting for the Gophers': Klobuchar sides with Minnesota over Iowa ahead of Saturday's game. Amy Klobuchar is ramping up her efforts to win over Iowans ahead of the state's February caucuses. But as the presidential hopeful courts voters in Minnesota's neighbor to the south, there's one line she won't cross:
+1. Key points: Amy Klobuchar is campaigning in Iowa for the upcoming caucuses but maintains her support for Minnesota's football team over Iowa's.
+2. Political lean indicators: The article focuses on a political figure's campaign efforts and regional sports loyalty, without delving into broader social justice, economic, or traditional themes.
+3. Political lean: Center
+
+Article 2: SHOCKING UPSET: Falcons beat Saints 26-9. In one of the more shocking upsets of the 2019 NFL season the Atlanta Falcons routed the New Orleans Saints in the Mercedes-Benz Superdome on Sunday 26-9. Atlanta entered the game with a 1-7 overall record. Sign up for our Newsletters The Saints are
+1. Key points: The Atlanta Falcons defeated the New Orleans Saints in a surprising upset, with the Falcons having a poor season record prior to the game.
+2. Political lean indicators: The article is focused on the factual reporting of a sports event without any political or social commentary.
+3. Political lean: Center
+
+Article 3: Arizona Cardinals fans threaten to stop following team should it sign Colin Kaepernick. Check out the range of reactions on social media to the idea of Colin Kaepernick signing with the Arizona Cardinals.
+1. Key points: There is a controversy among Arizona Cardinals fans regarding the potential signing of Colin Kaepernick, with some fans threatening to stop supporting the team.
+2. Political lean indicators: The article touches on the contentious issue of Colin Kaepernick, a figure associated with social justice movements, and highlights the polarized reactions from fans.
+3. Political lean: Left

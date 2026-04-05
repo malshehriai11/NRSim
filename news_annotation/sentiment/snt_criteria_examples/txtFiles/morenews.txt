@@ -1,0 +1,26 @@
+Morenews:
+
+Positive:
+Positive sentiment in morenews news articles is characterized by content that highlights favorable outcomes, progress, or beneficial impacts related to the subject matter. Articles that emphasize achievements, success stories, advancements, positive changes, and optimistic projections fall under this category. Language used in these articles often includes terms like "improvement," "growth," "achievement," "innovation," "success," "benefit," and "positive impact." Examples of content that typically correspond to positive sentiment include reports on technological breakthroughs, successful policy implementations, economic growth, humanitarian efforts, and community development projects. Articles that spotlight personal success stories, awards, and recognitions also contribute to a positive sentiment.
+
+Negative:
+Negative sentiment in morenews news articles is identified by content that focuses on adverse outcomes, setbacks, or detrimental impacts associated with the subject matter. Such articles often highlight problems, failures, losses, conflicts, and challenges. The language in these articles frequently includes words like "decline," "problem," "crisis," "loss," "failure," "negative impact," and "controversy." Examples of content that typically correspond to negative sentiment include reports on economic downturns, political conflicts, environmental disasters, public health crises, and social issues such as crime and inequality. Articles detailing scandals, corruption, and negative reviews or criticisms also convey a negative sentiment.
+
+Neutral:
+Neutral sentiment in morenews news articles is identified by content that presents information in an unbiased, factual, and balanced manner without expressing a clear positive or negative stance. These articles focus on providing comprehensive coverage of events, situations, and topics without imparting subjective judgment or emotional tone. The language used in these articles is typically objective, straightforward, and informative, often including words like "report," "statement," "claims," "data," "statistics," "facts," and "analysis." Examples of content that typically correspond to neutral sentiment include factual news reports, analytical pieces that explore multiple perspectives, summaries of events, and articles focused on providing background information or context. Neutral sentiment is often found in articles that aim to inform rather than persuade, such as detailed event coverage, policy announcements, and scientific findings presented without bias.
+
+Chain_of_thought_examples:
+Article 1: Adopt a Pet: Marcelo from Houndhaven. Linda Coletta, the president of Houndhaven, discovered Marcelo thanks to her Ring doorbell. He was in rough shape, wandering her property in search of food. "He clearly had a broken leg because it was just swinging," she said. "Plus he was just skin and
+1. Key points: Marcelo, a dog, was found in poor condition by Linda Coletta, the president of Houndhaven. He had a broken leg and was very thin.
+2. Sentiment indicators: "rough shape," "broken leg," "just skin and"
+3. Sentiment: Negative
+
+Article 2: Advocacy groups push Senate to include election security money in funding bill. A group of advocacy organizations is pushing the Senate to include election security funds in the upcoming continuing resolution (CR) to fund the government.
+1. Key points: Advocacy groups are urging the Senate to allocate funds for election security in the upcoming government funding bill.
+2. Sentiment indicators: "pushing," "include election security funds"
+3. Sentiment: Neutral
+
+Article 3: Separated pit bulls 'hit doggie lottery' as Marvel star adopts both. The Facebook post showed the 6-year-old dogs, Maggie and Ollie, side-by-side and told the story of their owners giving them up to Hillsborough County Animal Services because of a new baby. The volunteer who wrote the post on the
+1. Key points: Two pit bulls, Maggie and Ollie, were given up by their owners due to a new baby but were later adopted together by a Marvel star.
+2. Sentiment indicators: "hit doggie lottery," "adopts both"
+3. Sentiment: Positive

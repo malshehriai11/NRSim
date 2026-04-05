@@ -1,0 +1,26 @@
+Morenews:
+
+Left:
+Content that is typically progressive, advocating for social justice, environmental sustainability, and economic equality. Articles might focus on issues like income inequality, universal healthcare, climate change, LGBTQ+ rights, and systemic racism. The tone is often critical of big corporations, conservative policies, and traditional power structures. It may endorse increased government intervention in economic and social matters, and support labor unions, higher taxes on the wealthy, and expanded social welfare programs. Language tends to emphasize inclusivity, diversity, and equity.
+
+Center:
+Content that strives for a balanced viewpoint, presenting arguments from both the left and the right. These articles often aim to be fact-based and objective, avoiding partisan language and sensationalism. They might cover a wide range of topics without strong ideological leanings, such as economic policy, healthcare, education, and foreign affairs. The tone is measured, focusing on pragmatic solutions and compromise. It may include interviews with experts from various perspectives and provide a nuanced analysis that acknowledges the complexity of issues. The language is neutral, aiming to inform rather than persuade.
+
+Right:
+Content that typically supports conservative values, emphasizing personal responsibility, free-market principles, and traditional social norms. Articles might focus on issues like tax cuts, deregulation, national security, gun rights, and the protection of religious freedoms. The tone is often critical of progressive policies, government overreach, and political correctness. It may endorse limited government intervention, lower taxes, and a strong national defense. Language tends to emphasize individual liberty, patriotism, and respect for established institutions and traditions.
+
+Chain_of_thought_examples:
+Article 1: Universal healthcare is essential for a just society. Expanding access ensures that everyone, regardless of income, receives necessary medical care. Government-funded healthcare reduces disparities and promotes overall public health and well-being.
+1. Key points: Universal healthcare is essential; expanding access ensures medical care for all; government-funded healthcare reduces disparities; promotes public health and well-being.
+2. Political lean indicators: Advocacy for universal healthcare, focus on reducing disparities, emphasis on government intervention in healthcare, promoting public health and well-being.
+3. Political lean: Left
+
+Article 2: Pete Buttigieg clarifies views on the Obama administration after criticism for a viral misquote. Pete Buttigieg said his "appreciation of the great leadership of Barack Obama comes from a very personal place" after he was misquoted in an article.
+1. Key points: Pete Buttigieg clarifies views on Obama administration; addresses criticism for a misquote; expresses personal appreciation for Obama's leadership.
+2. Political lean indicators: Focus on a Democratic politician (Pete Buttigieg), positive mention of Barack Obama's leadership, addressing a misquote which suggests an attempt to clarify and maintain a balanced view.
+3. Political lean: Center
+
+Article 3: Strong national security policies are essential to protect American interests. By prioritizing defense spending and securing borders, we ensure the safety and sovereignty of our nation, promoting stability and peace both domestically and internationally.
+1. Key points: Strong national security policies are essential; prioritizing defense spending; securing borders; ensuring safety and sovereignty; promoting stability and peace.
+2. Political lean indicators: Emphasis on national security, prioritizing defense spending, securing borders, focus on sovereignty and stability, promoting peace through strength.
+3. Political lean: Right

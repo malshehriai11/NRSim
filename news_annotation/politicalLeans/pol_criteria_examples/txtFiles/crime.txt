@@ -1,0 +1,24 @@
+Crime:
+
+Left:
+Crime news articles with a left-leaning political bias often focus on systemic issues and societal factors contributing to criminal behavior. These articles may emphasize the role of socioeconomic disparities, lack of access to education and healthcare, and systemic racism or discrimination. They tend to advocate for criminal justice reform, highlighting the need for rehabilitation over punishment and questioning the effectiveness and fairness of law enforcement practices. Left-leaning articles might also focus on the disproportionate impact of crime and law enforcement on marginalized communities, advocating for more community-based solutions and support systems. The language used is generally empathetic towards offenders, often framing them as products of their environment who need support and opportunities to change.
+
+Center:
+Crime news articles that are politically centrist strive for a balanced and objective presentation, aiming to provide a comprehensive view of the crime without leaning too heavily on either side of the political spectrum. These articles typically present facts and data without much editorializing, allowing readers to form their own opinions. They might include multiple perspectives, such as statements from law enforcement, victims, community leaders, and criminal justice experts. Centrist articles avoid sensationalism and focus on the specifics of the case, legal proceedings, and the broader impact on the community. They may discuss both the need for law enforcement and criminal justice reform, but they do so in a balanced way, acknowledging the complexities and nuances of these issues.
+
+Right:
+Crime news articles with a right-leaning political bias often emphasize law and order, advocating for strict enforcement of laws and harsher penalties for offenders. These articles may focus on individual responsibility and the need for personal accountability, often highlighting the threat that crime poses to public safety and social stability. Right-leaning articles might support policies such as increased police funding, mandatory minimum sentences, and tougher immigration controls to prevent crime. They may also emphasize the experiences and rights of victims, advocating for swift and severe punishment for offenders. The language used is often more punitive, framing criminals as threats to society who need to be deterred through strong legal measures.
+
+Chain_of_thought_examples:
+Article 1: Progressive activists call for comprehensive criminal justice reform to tackle systemic racism and inequality. They advocate for measures such as ending cash bail, reducing mandatory minimum sentences, and investing in community-based programs to create a more just and equitable system.
+1. Key points: Progressive activists are calling for criminal justice reform to address systemic racism and inequality. They propose ending cash bail, reducing mandatory minimum sentences, and investing in community-based programs.
+2. Political lean indicators: Focus on systemic issues like racism and inequality, advocacy for ending cash bail and reducing mandatory minimum sentences, emphasis on community-based programs and creating a more just and equitable system.
+3. Political lean: Left
+Article 2: No injuries reported in Kalamazoo house fire. KALAMAZOO, Mich. No injuries were reported in a house fire in Kalamazoo Saturday morning. The Kalamazoo Department of Public Safety said officers responded around 8:15 a.m. to the 1000 block of N Pitcher Street on a call that the rear of the home
+1. Key points: A house fire occurred in Kalamazoo with no injuries reported. The Kalamazoo Department of Public Safety responded to the incident.
+2. Political lean indicators: The article is a straightforward report of an incident with no political commentary or bias.
+3. Political lean: Center
+Article 3: He was one of the first prisoners released under Trump's criminal justice reform law. Now he's accused of murder. In February, Joel Francisco became one of the first federal prisoners to walk free as a result of the First Step Act, a landmark piece of criminal justice reform legislation. Last
+1. Key points: Joel Francisco, one of the first prisoners released under the First Step Act, is now accused of murder. The First Step Act is a criminal justice reform law enacted during Trump's administration.
+2. Political lean indicators: The article highlights a negative outcome (accusation of murder) following the release of a prisoner under a criminal justice reform law. It mentions Trump's administration, which could imply criticism of the reform.
+3. Political lean: Right
