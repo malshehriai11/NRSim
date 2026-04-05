@@ -1,13 +1,8 @@
 # NRSim
 
-Simulation framework for studying **multi-dimensional filter bubbles** in news recommendation systems.
+Simulation framework for studying multi-dimensional filter bubbles in news recommendation systems.
 
-
-
-## Paper
-
-**Unveiling the Dynamics of Multi-Dimensional Filter Bubbles in News Recommendation**
-
+**Paper:** *[Unveiling the Dynamics of Multi-Dimensional Filter Bubbles in News Recommendation](https://ieeexplore.ieee.org/abstract/document/11400919)*
 
 
 ## Overview
